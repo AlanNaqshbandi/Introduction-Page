@@ -1,9 +1,9 @@
 # Welcome to Alan's profile. Pathway of Cyber/Cloud Security Professional
 <h1>Hi,I'm<a href="https://github.com/AlanNaqshbandi"></a> <a href="https://www.linkedin.com/in/alan-naqshbandi-57788588/"> Alan Naqshbandi 
 
-  <a>Cyber Security Professional / (Azure) Cloud Security Specialist</a></h2>
+  <a>Cyber Security Analyst | Azure Cloud Security</a></h2>
 
-<h2>👨‍💻Cloud Security Projects:</h2>
+<h2>👨‍💻Enterprise Azure Security Scenarios:</h2>
 
 - <b>Educational Portal University</b>
   - [Global E-Learning Platform on Azure](https://github.com/AlanNaqshbandi/EduPortal-University)
