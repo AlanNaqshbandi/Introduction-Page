@@ -1,6 +1,6 @@
 # Welcome to Alan's profile  
 
-## Hi, I’m [Alan Naqshbandi](https://github.com/AlanNaqshbandi)
+## Hi, I’m [Alan Naqshbandi](https://www.linkedin.com/in/alan-naqshbandi)
 
 <h3>I focus on securing Azure cloud environments through identity, network security, monitoring, and secure architecture design.</h3>
 
