@@ -3,8 +3,8 @@
 
 <h2>👨‍💻Cloud Security Projects:</h2>
 
-- <b>EduPortal University – Global E-Learning Platform on Azure</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>EduPortal University</b>
+  - [Global E-Learning Platform on Azure](https://github.com/AlanNaqshbandi/EduPortal-University)
 - <b>RetailX Store Chain – Distributed Retail System with High Availability</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>BlueBank – Financial Institution Migration to Azure</b>
