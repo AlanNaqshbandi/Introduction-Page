@@ -12,7 +12,7 @@
 - <b>MediCare Clinic</b>
   - [Hybrid Healthcare System with Secure Patient Data](https://github.com/AlanNaqshbandi/MediCare-Clinic)
 - <b>OilTech Services</b>
-  - [Industrial (OT + IT) Environment with Azure Integration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Industrial (OT + IT) Environment with Azure Integration](https://github.com/AlanNaqshbandi/OilTech-Services)
 
 <h2></h2>
 
