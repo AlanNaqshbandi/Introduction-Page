@@ -5,8 +5,8 @@
 
 - <b>Educational Portal University</b>
   - [Global E-Learning Platform on Azure](https://github.com/AlanNaqshbandi/EduPortal-University)
-- <b>RetailX Store Chain – Distributed Retail System with High Availability</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>RetailX Store Chain</b>
+  - [Distributed Retail System with High Availability](https://github.com/AlanNaqshbandi/RetailX-Store-Chain)
 - <b>BlueBank – Financial Institution Migration to Azure</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
