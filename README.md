@@ -18,7 +18,7 @@
 
 <h2></h2>
 
-<h2>  Connect with me:</h2>
+<h2> 🤝 Connect with me:</h2>
 
 [<img align="left" alt="Alan Naqshbandi | LinkedIn" width="29px" src="https://cdn3d.iconscout.com/3d/premium/thumb/linkedin-3d-icon-png-download-9264657.png" />][linkedin]
 
