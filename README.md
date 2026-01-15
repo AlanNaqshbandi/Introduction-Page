@@ -1,5 +1,7 @@
 # Welcome to Alan's profile. Pathway of Cyber/Cloud Security Professional
-<h1>Hi,I'm<a href="https://github.com/AlanNaqshbandi"></a> <a href="https://www.linkedin.com/in/alan-naqshbandi-57788588/"> Alan Naqshbandi 
+<h1>Hi, I'm<a href="https://github.com/AlanNaqshbandi"></a> <a href="https://www.linkedin.com/in/alan-naqshbandi-57788588/"> Alan Naqshbandi, I focus on securing Azure cloud environments through identity,
+network security, monitoring, and secure architecture design.
+
 
   <a>Cyber Security Analyst | Azure Cloud Security</a></h2>
 
