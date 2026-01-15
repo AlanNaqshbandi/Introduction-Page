@@ -9,12 +9,10 @@
   - [Distributed Retail System with High Availability](https://github.com/AlanNaqshbandi/RetailX-Store-Chain)
 - <b>BlueBank</b>
   - [Financial Institution Migration to Azure](https://github.com/AlanNaqshbandi/RetailX-Store-Chain)
-- <b>MediCare Clinic – Hybrid Healthcare System with Secure Patient Data</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>OilTech Services – Industrial (OT + IT) Environment with Azure Integration</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>MediCare Clinic</b>
+  - [Hybrid Healthcare System with Secure Patient Data](https://github.com/AlanNaqshbandi/MediCare-Clinic)
+- <b>OilTech Services</b>
+  - [Industrial (OT + IT) Environment with Azure Integration](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2></h2>
 
