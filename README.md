@@ -25,7 +25,7 @@
 
 [<img align="left" alt="Alan Naqshbandi | LinkedIn" width="29px" src="https://cdn3d.iconscout.com/3d/premium/thumb/linkedin-3d-icon-png-download-9264657.png" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/alan-naqshbandi
+[linkedin]: https://www.linkedin.com/in/alan-naqshbandi-57788588
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
