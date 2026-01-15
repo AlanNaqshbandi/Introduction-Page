@@ -3,7 +3,7 @@
 
 <h2>👨‍💻Cloud Security Projects:</h2>
 
-- <b>EduPortal University</b>
+- <b>Educational Portal University</b>
   - [Global E-Learning Platform on Azure](https://github.com/AlanNaqshbandi/EduPortal-University)
 - <b>RetailX Store Chain – Distributed Retail System with High Availability</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
