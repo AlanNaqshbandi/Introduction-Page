@@ -1,10 +1,10 @@
-# Alan Naqshbandi | Azure Cloud Security Engineer
+# [Alan Naqshbandi](https://www.linkedin.com/in/alan-naqshbandi-57788588) | Azure Cloud Security Engineer
 
-## Hi, I’m [Alan Naqshbandi](https://www.linkedin.com/in/alan-naqshbandi-57788588)
+<h3>Azure Security Engineer with hands-on experience securing cloud environments
+through identity and access management, network security, monitoring,
+and secure cloud architecture design.
 
-<h3>Azure-focused Cyber Security Analyst with hands-on experience securing
-cloud environments through identity, network security, monitoring,
-and secure architecture design.</h3>
+Background in SOC and Cyber Security Operations, with a strong focus on Azure cloud security.</h3>
 
 ## 👨‍💻 Enterprise Azure Cloud Security Projects
 
