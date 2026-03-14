@@ -6,7 +6,7 @@ and secure cloud architecture design.
 
 Background in SOC and Cyber Security Operations, with a strong focus on Azure cloud security.</h3>
 
-## 👨‍💻 Enterprise Azure Cloud Security Projects
+## ⭐ 👨‍💻 Enterprise Azure Cloud Security Projects (AZ-104)
 
 - <b>EduPortal University</b>
   - [Secure global e-learning platform on Azure](https://github.com/AlanNaqshbandi/EduPortal-University)
@@ -24,8 +24,16 @@ Background in SOC and Cyber Security Operations, with a strong focus on Azure cl
 - Network Security (VNETs, NSGs, segmentation)
 - Monitoring & Detection (Azure Monitor, Sentinel concepts)
 - Secure Cloud Architecture & Design
+<h2></h2>
 
+## ⭐ 👨‍💻 Enterprise Identity & Access Management (IAM) Projects (SC-300)
 
+- CloudDevCorp – Application Identity Platform
+- GlobalBank – Secure Authentication & Conditional Access
+- TechConsult – Privileged Access Management (PIM)
+- RetailChain – B2B Partner Collaboration Identity
+- SmartCity – Identity Governance Platform
+- EduWorld – Hybrid Identity Infrastructure
 <h2></h2>
 
 <h2> 🤝 Connect with me:</h2>
