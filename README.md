@@ -1,10 +1,12 @@
 # [Alan Naqshbandi](https://www.linkedin.com/in/alan-naqshbandi-57788588) | Azure Cloud Security Engineer
 
-<h3>Azure Security Engineer with hands-on experience securing cloud environments
-through identity and access management, network security, monitoring,
-and secure cloud architecture design.
+<h4>Azure Security Engineer focused on securing cloud infrastructure through Identity & Access Management (IAM), Network Security, and Active Monitoring. Draws on a solid SOC and Cyber Operations background to design and maintain secure, well-governed Azure environments.
 
-Background in SOC and Cyber Security Operations, with a strong focus on Azure cloud security.</h3>
+## 🛠 Core Azure & Security Focus
+- Azure Identity & Access Management (Entra ID, RBAC).
+- Network Security (VNETs, NSGs, segmentation).
+- Monitoring & Detection (Azure Monitor, Sentinel concepts).
+- Secure Cloud Architecture & Design.
 
 ## ⭐ 👨‍💻 Enterprise Azure Cloud Security Projects (AZ-104)
 
@@ -19,11 +21,7 @@ Background in SOC and Cyber Security Operations, with a strong focus on Azure cl
 - <b>OilTech Services</b>
   - [Industrial (OT + IT) Environment with Azure Integration](https://github.com/AlanNaqshbandi/OilTech-Services)
 
-## 🛠 Core Azure & Security Focus
-- Azure Identity & Access Management (Entra ID, RBAC)
-- Network Security (VNETs, NSGs, segmentation)
-- Monitoring & Detection (Azure Monitor, Sentinel concepts)
-- Secure Cloud Architecture & Design
+
 <h2></h2>
 
 ## ⭐ 👨‍💻 Enterprise Identity & Access Management (IAM) Projects (SC-300)
