@@ -26,12 +26,12 @@
 
 ## ⭐ 👨‍💻 Enterprise Identity & Access Management (IAM) Projects (SC-300)
 
-- DevIdentity Platform – Application Identity & Service Principals.
-- GlobalBank Zero Trust Identity – Secure Authentication & Conditional Access.
-- TechConsult Privileged Access Platform – Privileged Identity Management (PIM).
-- RetailChain Partner Identity Hub – B2B Partner Collaboration.
-- SmartCity Identity Governance Framework – Access Reviews & Entitlement Management.
-- EduWorld Hybrid Identity Infrastructure – Hybrid Identity with Entra Connect.
+- <b>DevIdentity Platform</b> - Application Identity & Service Principals
+- <b>GlobalBank Zero Trust Identity</b> – Secure Authentication & Conditional Access.
+- <b>TechConsult Privileged Identity Platform</b> – Privileged Identity Management (PIM).
+- <b>RetailChain Partner Identity Hub</b> – B2B Partner Collaboration.
+- <b>SmartCity Identity Governance Framework</b> – Access Reviews & Entitlement Management.
+- <b>duWorld Hybrid Identity Environment</b> – Hybrid Identity with Entra Connect.
 <h2></h2>
 
 <h2> 🤝 Connect with me:</h2>
