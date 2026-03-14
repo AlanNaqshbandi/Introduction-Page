@@ -28,12 +28,12 @@ Background in SOC and Cyber Security Operations, with a strong focus on Azure cl
 
 ## ⭐ 👨‍💻 Enterprise Identity & Access Management (IAM) Projects (SC-300)
 
-- CloudDevCorp – Application Identity Platform
-- GlobalBank – Secure Authentication & Conditional Access
-- TechConsult – Privileged Access Management (PIM)
-- RetailChain – B2B Partner Collaboration Identity
-- SmartCity – Identity Governance Platform
-- EduWorld – Hybrid Identity Infrastructure
+- DevIdentity Platform – Application Identity & Service Principals.
+- GlobalBank Zero Trust Identity – Secure Authentication & Conditional Access.
+- TechConsult Privileged Access Platform – Privileged Identity Management (PIM).
+- RetailChain Partner Identity Hub – B2B Partner Collaboration.
+- SmartCity Identity Governance Framework – Access Reviews & Entitlement Management.
+- EduWorld Hybrid Identity Infrastructure – Hybrid Identity with Entra Connect.
 <h2></h2>
 
 <h2> 🤝 Connect with me:</h2>
