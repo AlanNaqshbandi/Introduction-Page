@@ -8,7 +8,7 @@
 - Monitoring & Detection (Azure Monitor, Sentinel concepts).
 - Secure Cloud Architecture & Design.
 
-## ⭐ 👨‍💻 Enterprise Azure Cloud Security Projects (AZ-104)
+## ⭐Enterprise Azure Cloud Security Projects (AZ-104)
 
 - <b>EduPortal University</b>
   - [Secure global e-learning platform on Azure](https://github.com/AlanNaqshbandi/EduPortal-University)
@@ -24,7 +24,7 @@
 
 <h2></h2>
 
-## ⭐ 👨‍💻 Enterprise Identity & Access Management (IAM) Projects (SC-300)
+## ⭐Enterprise Identity & Access Management (IAM) Projects (SC-300)
 
 - <b>DevIdentity Platform</b>
   - [Application Identity & Service Principals](https://github.com/AlanNaqshbandi/Application-Identity-Service-Principals)
