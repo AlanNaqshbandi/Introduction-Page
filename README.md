@@ -26,7 +26,8 @@
 
 ## ⭐ 👨‍💻 Enterprise Identity & Access Management (IAM) Projects (SC-300)
 
-- <b>DevIdentity Platform</b> - Application Identity & Service Principals
+- <b>DevIdentity Platform</b>
+  - [Application Identity & Service Principals](https://github.com/AlanNaqshbandi/Application-Identity-Service-Principals)
 - <b>GlobalBank Zero Trust Identity</b> – Secure Authentication & Conditional Access.
 - <b>TechConsult Privileged Identity Platform</b> – Privileged Identity Management (PIM).
 - <b>RetailChain Partner Identity Hub</b> – B2B Partner Collaboration.
