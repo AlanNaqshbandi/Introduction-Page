@@ -1,6 +1,6 @@
 # [Alan Naqshbandi](https://www.linkedin.com/in/alan-naqshbandi-57788588) | Azure Cloud Security Engineer
 
-<h4>Azure Security Engineer focused on securing cloud infrastructure and Azure services through Identity & Access Management (IAM), security controls, and security monitoring. Leveraging SOC experience to build resilient and well-governed Azure environments.
+<h4>Azure Security Engineer focused on securing cloud infrastructure and Azure services through Identity & Access Management (IAM), Security Controls, and Security Monitoring. Leveraging SOC experience to build resilient and well-governed Azure environments.
 
 ## 🛠 Core Azure & Security Focus
 - Identity & Access Management (Microsoft Entra ID, RBAC, Conditional Access).
