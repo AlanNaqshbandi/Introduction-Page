@@ -9,7 +9,7 @@
 - Monitoring & Detection (Azure Monitor, Log Analytics, Sentinel concepts).
 - Secure Cloud Architecture & Design.
 
-## ⭐Enterprise Azure Cloud Security Projects (AZ-104)
+## ⭐Enterprise Azure Cloud Infrastructure Projects (AZ-104)
 
 - <b>EduPortal University</b>
   - [Secure global e-learning platform on Azure](https://github.com/AlanNaqshbandi/EduPortal-University)
