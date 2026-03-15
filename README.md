@@ -4,7 +4,7 @@
 
 ## 🛠 Core Azure & Security Focus
 - Identity & Access Management (Microsoft Entra ID, RBAC, Conditional Access).
-- Application & Workload Security (App Registrations, Service Principals, Managed Identities, API permissions).
+- Application & Workload Security (App Registrations, Service Principals, Managed Identities).
 - Network Security (VNets, NSGs, segmentation, Private Endpoints).
 - Monitoring & Detection (Azure Monitor, Log Analytics, Sentinel concepts).
 - Secure Cloud Architecture & Design.
