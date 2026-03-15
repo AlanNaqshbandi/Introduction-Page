@@ -29,15 +29,15 @@
 
 - <b>DevIdentity Platform:</b>
   - [Application Identity & Service Principals](https://github.com/AlanNaqshbandi/Application-Identity-Service-Principals)
-- <b>GlobalBank Zero Trust Identity:</b>
+- <b>GlobalBank Zero Trust:</b>
   - [Secure Authentication & Conditional Access](https://github.com/AlanNaqshbandi/Secure-Authentication-Conditional-Access)
-- <b>TechConsult Privileged Identity Platform:</b>
+- <b>TechConsult Privileged Access:</b>
   - [Privileged Identity Management (PIM)](https://github.com/AlanNaqshbandi/Privileged-Identity-Management-PIM-)
-- <b>RetailChain Partner Identity Hub:</b>
+- <b>RetailChain Partner Access:</b>
   - [B2B Partner Collaboration](https://github.com/AlanNaqshbandi/B2B-Partner-Collaboration)
-- <b>SmartCity Identity Governance Framework:</b>
+- <b>SmartCity Identity Governance:</b>
   - [Access Reviews & Entitlement Management](https://github.com/AlanNaqshbandi/Access-Reviews-Entitlement-Management)
-- <b>duWorld Hybrid Identity Environment:</b>
+- <b>EduWorld Hybrid Identity:</b>
   - [Hybrid Identity with Entra Connect](https://github.com/AlanNaqshbandi/Hybrid-Identity-with-Entra-Connect)
 <h2></h2>
 
