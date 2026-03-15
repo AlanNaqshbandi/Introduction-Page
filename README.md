@@ -3,9 +3,10 @@
 <h4>Azure Security Engineer focused on securing cloud infrastructure and Azure services through Identity & Access Management (IAM), security controls, and security monitoring. Leveraging SOC experience to build resilient and well-governed Azure environments.
 
 ## 🛠 Core Azure & Security Focus
-- Azure Identity & Access Management (Entra ID, RBAC).
-- Network Security (VNETs, NSGs, Segmentation).
-- Monitoring & Detection (Azure Monitor, Sentinel concepts).
+- Identity & Access Management (Microsoft Entra ID, RBAC, Conditional Access).
+- Application & Workload Security (App Registrations, Service Principals, Managed Identities, API permissions).
+- Network Security (VNets, NSGs, segmentation, Private Endpoints).
+- Monitoring & Detection (Azure Monitor, Log Analytics, Sentinel concepts).
 - Secure Cloud Architecture & Design.
 
 ## ⭐Enterprise Azure Cloud Security Projects (AZ-104)
