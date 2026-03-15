@@ -15,8 +15,8 @@
   - [Secure global e-learning platform on Azure](https://github.com/AlanNaqshbandi/EduPortal-University)
 - <b>RetailX Store Chain:</b>
   - [Distributed Retail System with High Availability](https://github.com/AlanNaqshbandi/RetailX-Store-Chain)
-- 
-  - 
+- <b>BlueBank:</b>
+  - [Financial institution migration to Azure with security controls](https://github.com/AlanNaqshbandi/BlueBank)
 - <b>MediCare Clinic:</b>
   - [Hybrid Healthcare System with Secure Patient Data](https://github.com/AlanNaqshbandi/MediCare-Clinic)
 - <b>OilTech Services:</b>
