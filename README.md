@@ -4,7 +4,7 @@
 
 ## 🛠 Core Azure & Security Focus
 - Azure Identity & Access Management (Entra ID, RBAC).
-- Network Security (VNETs, NSGs, segmentation).
+- Network Security (VNETs, NSGs, Segmentation).
 - Monitoring & Detection (Azure Monitor, Sentinel concepts).
 - Secure Cloud Architecture & Design.
 
