@@ -11,11 +11,11 @@
 
 ## ⭐Enterprise Azure Cloud Infrastructure Projects (AZ-104)
 
-- <b>EduPortal University:</b>
+- <b>EduPortal University (Portal-Configured):</b>
   - [Secure global e-learning platform on Azure](https://github.com/AlanNaqshbandi/EduPortal-University)
-- <b>RetailX Store Chain:</b>
+- <b>RetailX Store Chain (Portal-Configured):</b>
   - [Distributed Retail System with High Availability](https://github.com/AlanNaqshbandi/RetailX-Store-Chain)
-- <b>BlueBank:</b>
+- <b>BlueBank (Portal-Configured):</b>
   - [Financial institution migration to Azure with security controls](https://github.com/AlanNaqshbandi/BlueBank)
 - <b>MediCare Clinic (PowerShell-Deployed):</b>
   - [Hybrid Healthcare System with Secure Patient Data](https://github.com/AlanNaqshbandi/MediCare-Clinic)
