@@ -19,7 +19,7 @@
   - [Financial institution migration to Azure with security controls](https://github.com/AlanNaqshbandi/BlueBank)
 - <b>MediCare Clinic (PowerShell-Deployed):</b>
   - [Hybrid Healthcare System with Secure Patient Data](https://github.com/AlanNaqshbandi/MediCare-Clinic)
-- <b>OilTech Services:</b>
+- <b>OilTech Services (Bicep-Deployed):</b>
   - [Industrial (OT + IT) Environment with Azure Integration](https://github.com/AlanNaqshbandi/OilTech-Services)
 
 
