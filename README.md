@@ -12,7 +12,7 @@
 ## ⭐Enterprise Azure Cloud Infrastructure Projects (AZ-104)
 
 - <b>Azure-Secure-Infrastructure (PowerShell-Deployed):</b>
-  - [Complete 6-step Azure security infrastructure — VNet, RBAC, Key Vault, Policy, Private Endpoints, Zero Trust]()
+  - [Complete 6-step Azure security infrastructure — VNet, RBAC, Key Vault, Policy, Private Endpoints, Zero Trust](https://github.com/AlanNaqshbandi/Azure-Secure-Infrastructure)
 - <b>EduPortal University (Portal-Configured):</b>
   - [Secure global e-learning platform on Azure](https://github.com/AlanNaqshbandi/EduPortal-University)
 - <b>RetailX Store Chain (Portal-Configured):</b>
