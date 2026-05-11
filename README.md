@@ -11,6 +11,8 @@
 
 ## ⭐Enterprise Azure Cloud Infrastructure Projects (AZ-104)
 
+- <b>Lab 1 — NSG Troubleshooting (Tools Used:PowerShell · Azure CLI · Bicep):</b>
+  - [The VM That Cannot Talk](https://github.com/AlanNaqshbandi/Azure-Secure-Infrastructure)
 - <b>Azure-Secure-Infrastructure (PowerShell-Deployed):</b>
   - [Complete 6-step Azure security infrastructure — VNet, RBAC, Key Vault, Policy, Private Endpoints, Zero Trust](https://github.com/AlanNaqshbandi/Azure-Secure-Infrastructure)
 - <b>EduPortal University (Portal-Configured):</b>
