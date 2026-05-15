@@ -9,7 +9,7 @@
 - Monitoring & Detection (Azure Monitor, Log Analytics, Sentinel concepts).
 - Secure Cloud Architecture & Design.
 
-## ⭐Enterprise Azure Cloud Infrastructure Projects (AZ-104)
+## ⭐Enterprise Azure Cloud Infrastructure Projects (AZ-104 & AZ-500)
 
 - <b>Challenge Lab — Storage & Identity Troubleshooting (Tools Used:PowerShell · Azure CLI · Bicep):</b>
   - [The Storage Nobody Can Access](https://github.com/AlanNaqshbandi/The-Storage-Nobody-Can-Access)
