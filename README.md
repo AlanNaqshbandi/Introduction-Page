@@ -11,6 +11,8 @@
 
 ## ⭐Enterprise Azure Cloud Infrastructure Projects (AZ-104)
 
+- <b>Challenge Lab — Storage & Identity Troubleshooting (Tools Used:PowerShell · Azure CLI · Bicep):</b>
+  - [The Storage Nobody Can Access]()
 - <b>Challenge Lab — NSG Troubleshooting through VSCode (Tools Used:PowerShell · Azure CLI · Bicep):</b>
   - [The VM That Cannot Talk](https://github.com/AlanNaqshbandi/The-VM-That-Cannot-Talk)
 - <b>Azure-Secure-Infrastructure (PowerShell-Deployed):</b>
