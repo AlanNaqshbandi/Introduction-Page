@@ -11,24 +11,28 @@
 
 ## ⭐Enterprise Azure Cloud Infrastructure Projects (AZ-104 & AZ-500)
 
-- <b>Challenge Lab — Identity & Security Incident Response (Tools: PowerShell · Azure CLI · Entra ID):</b>
-  - [The Compromised Identity](https://github.com/AlanNaqshbandi/Identity-Security-Incident)
-- <b>Challenge Lab — Storage & Identity Troubleshooting (Tools Used:PowerShell · Azure CLI · Bicep):</b>
-  - [The Storage Nobody Can Access](https://github.com/AlanNaqshbandi/The-Storage-Nobody-Can-Access)
 - <b>Challenge Lab — NSG Troubleshooting through VSCode (Tools Used:PowerShell · Azure CLI · Bicep):</b>
   - [The VM That Cannot Talk](https://github.com/AlanNaqshbandi/The-VM-That-Cannot-Talk)
+- <b>Challenge Lab — Storage & Identity Troubleshooting (Tools Used:PowerShell · Azure CLI · Bicep):</b>
+  - [The Storage Nobody Can Access](https://github.com/AlanNaqshbandi/The-Storage-Nobody-Can-Access)
+- <b>Challenge Lab — Identity & Security Incident Response (Tools: PowerShell · Azure CLI · Entra ID):</b>
+  - [The Compromised Identity](https://github.com/AlanNaqshbandi/Identity-Security-Incident)
 - <b>Azure-Secure-Infrastructure (PowerShell-Deployed):</b>
   - [Complete 6-step Azure security infrastructure — VNet, RBAC, Key Vault, Policy, Private Endpoints, Zero Trust](https://github.com/AlanNaqshbandi/Azure-Secure-Infrastructure)
+- <b>MediCare Clinic (PowerShell-Deployed):</b>
+  - [Hybrid Healthcare System with Secure Patient Data](https://github.com/AlanNaqshbandi/MediCare-Clinic)
+- <b>OilTech Services (Bicep-Deployed):</b>
+  - [Industrial (OT + IT) Environment with Azure Integration](https://github.com/AlanNaqshbandi/OilTech-Services)
 - <b>EduPortal University (Portal-Configured):</b>
   - [Secure global e-learning platform on Azure](https://github.com/AlanNaqshbandi/EduPortal-University)
 - <b>RetailX Store Chain (Portal-Configured):</b>
   - [Distributed Retail System with High Availability](https://github.com/AlanNaqshbandi/RetailX-Store-Chain)
 - <b>BlueBank (Portal-Configured):</b>
   - [Financial institution migration to Azure with security controls](https://github.com/AlanNaqshbandi/BlueBank)
-- <b>MediCare Clinic (PowerShell-Deployed):</b>
-  - [Hybrid Healthcare System with Secure Patient Data](https://github.com/AlanNaqshbandi/MediCare-Clinic)
-- <b>OilTech Services (Bicep-Deployed):</b>
-  - [Industrial (OT + IT) Environment with Azure Integration](https://github.com/AlanNaqshbandi/OilTech-Services)
+
+
+
+
 
 
 <h2></h2>
