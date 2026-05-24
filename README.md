@@ -33,20 +33,20 @@
 
 <h2></h2>
 
-## ⭐Enterprise Identity & Access Management (IAM) Projects (SC-300)
+<!-- ## ⭐Enterprise Identity & Access Management (IAM) Projects (SC-300)
 
 - <b>DevIdentity Platform:</b>
-  - [Application Identity & Service Principals](https://github.com/AlanNaqshbandi/Application-Identity-Service-Principals)
+- [Application Identity & Service Principals](https://github.com/AlanNaqshbandi/Application-Identity-Service-Principals)
 - <b>GlobalBank Zero Trust:</b>
-  - [Secure Authentication & Conditional Access](https://github.com/AlanNaqshbandi/Secure-Authentication-Conditional-Access)
+   - [Secure Authentication & Conditional Access](https://github.com/AlanNaqshbandi/Secure-Authentication-Conditional-Access)
 - <b>TechConsult Privileged Access:</b>
   - [Privileged Identity Management (PIM)](https://github.com/AlanNaqshbandi/Privileged-Identity-Management-PIM-)
 - <b>RetailChain Partner Access:</b>
-  - [B2B Partner Collaboration](https://github.com/AlanNaqshbandi/B2B-Partner-Collaboration)
+   - [B2B Partner Collaboration](https://github.com/AlanNaqshbandi/B2B-Partner-Collaboration)
 - <b>SmartCity Identity Governance:</b>
-  - [Access Reviews & Entitlement Management](https://github.com/AlanNaqshbandi/Access-Reviews-Entitlement-Management)
+   - [Access Reviews & Entitlement Management](https://github.com/AlanNaqshbandi/Access-Reviews-Entitlement-Management)
 - <b>EduWorld Hybrid Identity:</b>
-  - [Hybrid Identity with Entra Connect](https://github.com/AlanNaqshbandi/Hybrid-Identity-with-Entra-Connect)
+  - [Hybrid Identity with Entra Connect](https://github.com/AlanNaqshbandi/Hybrid-Identity-with-Entra-Connect) -->
 <h2></h2>
 
 <h2> 🤝 Connect with me:</h2>
