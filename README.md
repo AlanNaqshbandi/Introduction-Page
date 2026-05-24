@@ -12,7 +12,7 @@
 ## ⭐Enterprise Azure Cloud Infrastructure Projects (AZ-104 & AZ-500)
 
 - <b>Challenge Lab — Identity & Security Incident Response (Tools: PowerShell · Azure CLI · Entra ID):</b>
-  - [The Compromised Identity](https://github.com/AlanNaqshbandi/The-Storage-Nobody-Can-Access)
+  - [The Compromised Identity](https://github.com/AlanNaqshbandi/Identity-Security-Incident)
 - <b>Challenge Lab — Storage & Identity Troubleshooting (Tools Used:PowerShell · Azure CLI · Bicep):</b>
   - [The Storage Nobody Can Access](https://github.com/AlanNaqshbandi/The-Storage-Nobody-Can-Access)
 - <b>Challenge Lab — NSG Troubleshooting through VSCode (Tools Used:PowerShell · Azure CLI · Bicep):</b>
