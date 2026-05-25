@@ -2,6 +2,9 @@
 
 <h2>Azure Security Engineer with SOC/SIEM background transitioning from threat detection to cloud security engineering. Specialized in identity security, network hardening, and security incident response on Azure. Hands-on experience troubleshooting and remediating real security misconfigurations across RBAC, Private Endpoints, Key Vault, and Conditional Access.
 
+
+<h3>Tools: Azure CLI · PowerShell · Bicep · KQL · Microsoft Sentinel · Entra ID · Defender for Cloud · VS Code · GitHub<h3>
+
 ## 🛠 Core Azure & Security Focus
 - Identity & Access Management (Microsoft Entra ID, RBAC, Conditional Access).
 - Application & Workload Security (App Registrations, Service Principals, Managed Identities).
