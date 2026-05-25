@@ -30,7 +30,11 @@
 - <b>BlueBank (Portal-Configured):</b>
   - [Financial institution migration to Azure with security controls](https://github.com/AlanNaqshbandi/BlueBank)
 
+<h3>📚 Certifications In Progress<h3>
 
+<h3>🔄 AZ-104 — Microsoft Azure Administrator<h3>
+<h3>🔄 AZ-500 — Microsoft Azure Security Engineer<h3>
+<h3>🔄 SC-300 — Microsoft Identity and Access Administrator<h3>
 
 
 
