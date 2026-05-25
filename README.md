@@ -9,7 +9,7 @@
 - Monitoring & Detection (Azure Monitor, Log Analytics, Sentinel concepts).
 - Secure Cloud Architecture & Design.
 
-## ⭐Enterprise Azure Cloud Infrastructure Projects (AZ-104 & AZ-500)
+## ⭐Enterprise Azure Cloud Infrastructure labs & Projects (AZ-104 & AZ-500)
 
 - <b>Challenge Lab — NSG Troubleshooting through VSCode (Tools Used:PowerShell · Azure CLI · Bicep):</b>
   - [The VM That Cannot Talk](https://github.com/AlanNaqshbandi/The-VM-That-Cannot-Talk)
